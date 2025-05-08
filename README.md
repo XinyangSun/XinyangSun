@@ -8,7 +8,7 @@
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=XinyangSun&theme=default&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-stats-ruby-one-61.vercel.app/api?username=XinyangSun&theme=default&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=XinyangSun&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=XinyangSun&theme=default&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
